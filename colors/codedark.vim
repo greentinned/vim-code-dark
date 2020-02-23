@@ -198,7 +198,7 @@ call <sid>hi('Define', s:cdPink, {}, 'none', {})
 call <sid>hi('Macro', s:cdPink, {}, 'none', {})
 call <sid>hi('PreCondit', s:cdPink, {}, 'none', {})
 
-call <sid>hi('Type', s:cdBlue, {}, 'none', {})
+call <sid>hi('Type', s:cdBlueGreen, {}, 'none', {})
 call <sid>hi('StorageClass', s:cdBlue, {}, 'none', {})
 call <sid>hi('Structure', s:cdBlue, {}, 'none', {})
 call <sid>hi('Typedef', s:cdBlue, {}, 'none', {})
